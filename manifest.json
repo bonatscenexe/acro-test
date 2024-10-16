@@ -1,0 +1,17 @@
+{
+	"name": "scenexe.io",
+	"theme_color": "#CDCDCD",
+	"background_color": "#CDCDCD",
+	"description": "diep.io but bad",
+	"orientation": "landscape",
+	"start_url": "/",
+	"scope": "/",
+	"display": "fullscreen",
+	"icons": [
+		{
+			"src": "https://scenexe.io/assets/logo.png",
+			"sizes": "1280x1280",
+			"type": "image/png"
+		}
+	]
+}
